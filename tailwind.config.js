@@ -49,6 +49,8 @@ export default {
       fontFamily: {
         body: ['"Manrope"', "sans-serif"],
         display: ['"Cormorant Garamond"', "serif"],
+        carattere: ['"Carattere"', "cursive"],
+        script: ['"Carattere"', "cursive"],
       },
     },
   },
